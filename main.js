@@ -93,13 +93,13 @@ function symbolPicker() {
     return arr1.join('')
 }
 
-if (state.pg === 0) {
+/*if (state.pg === 0) {
     bluebutton.style.display="none";
     redbutton.style.display="none"
     } else if (state.pg > 0) {
         bluebutton.style.display="inline"
         redbutton.style.display="inline"
-    }
+    }*/
 
 
 
