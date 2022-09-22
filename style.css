@@ -1,0 +1,28 @@
+#back {
+    background-color: #63bbf2;
+    border: 0;
+    border-radius: 2px;
+}
+#reset {
+    background-color: #63bbf2;
+    border: 0;
+    border-radius: 90px;
+}
+.container {
+    justify-content: center;
+}
+#next {
+    background-color: #63bbf2;
+    border: 0;
+    border-radius: 2px;
+    height: 60px;
+    width: 200px;
+    font-size: 35px;
+}
+#header {
+    min-height: 400px;
+    max-height: 400px;
+    white-space: pre-line;
+    overflow: scroll;
+    font-size: 40px;
+}
