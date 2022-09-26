@@ -25,4 +25,8 @@
     white-space: pre-line;
     overflow: scroll;
     font-size: 40px;
+    font-family: monospace, sans-serif;
+}
+#bluetext {
+    min-height: 90px;
 }
